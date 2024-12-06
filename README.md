@@ -34,8 +34,6 @@ Nuestra propuesta, InclusioMap, es una plataforma diseñada para promover la inc
 
 ## 🔎 ¡En números!
 
-![mmartincasas GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartincasas&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartincasas&layout=compact&theme=radical)
 
 ---
