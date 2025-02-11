@@ -11,7 +11,6 @@ Soy Frontend Developer y también me atrae el mundo del UX/UI Designer. Adoro se
   - **Lenguajes**: JavaScript, Typescript, HTML, CSS
   - **Frameworks y librerías**: Angular, Bootstrap, Tailwind, Node.js, Express
   - **Bases de datos**: MySQL
-  - **DevOps**: Git
 
 - ☕ **Pasatiempos:** Me encanta la naturaleza, mi mascota *Luffy* 🐰, perderme en mis proyectos, y los videojuegos a tiempo parcial.
 
