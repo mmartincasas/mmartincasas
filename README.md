@@ -1,46 +1,52 @@
-# 👋 ¡Hola! Soy **Míriam Martín Casas**
+# 👋 Hi there! I'm **Míriam Martín Casas**
 
-¡Bienvenido a mi perfil de GitHub! 
-Soy Frontend Developer y también me atrae el mundo del UX/UI Designer. Adoro seguir aprendiendo día a día, es mi vitamina 💊
-
----
-
-## ✨ Sobre mí
-
-- 🔧 **Tecnologías:**
-  - **Lenguajes**: JavaScript, Typescript, HTML, CSS
-  - **Frameworks y librerías**: Angular, Bootstrap, Tailwind, Node.js, Express
-  - **Bases de datos**: MySQL
-
-- ☕ **Pasatiempos:** Me encanta la naturaleza, mi mascota *Luffy* 🐰, perderme en mis proyectos, y los videojuegos a tiempo parcial.
-
-- ✨ **Explorando:** Actualmente estoy con un proyecto personal de una web app de psicoterapia que incluye tanto el diseño como la implementación completa (Angular, Node.js, MySQL). Deseadme suerte 😱
-
-- 💼 **Abierta a oportunidades laborales:** Me encantaria incorporarme a equipos donde mostrar mis habilidades y crecer juntos. ¡No dudes en contactarme si crees que puedo encajar en tu equipo! 
+Welcome to my GitHub profile!  
+I'm a **Frontend Developer specialized in Angular**, with a strong passion for **UX/UI Design**.  
+Learning is my daily vitamin 💊 and I love building clean, accessible, and user-centered web experiences.
 
 ---
 
-## 🚀 Proyectos Destacados
+## ✨ About Me
 
-### 🌐 [**Hackató Barcelona Activa 2024**](https://github.com/ClaudioMartinH/hack_bcn_activa)
+### 🔧 Tech Stack
 
-Nuestra propuesta, InclusioMap, es una plataforma diseñada para promover la inclusión educativa y analizar factores socioeconómicos en la ciudad de Barcelona.
+- **Frontend:** Angular (my main tool ❤️), HTML, CSS, JavaScript, TypeScript  
+- **Styling:** Tailwind, Bootstrap  
+- **Backend & Fullstack:** Node.js, Express  
+- **Database:** MySQL
 
-- **Tecnologías Frontend Usadas:** Angular 18, Tailwind, HTML, CSS, Mapbox plugin
-- 🏆 2o Premio! 
+### 🌱 Currently Working On
 
----
+I'm developing a **psychotherapy web app** where I’m handling both design and fullstack development  
+(Angular + Node.js + MySQL). It’s a full-circle personal project, and I’m loving the challenge! 😱
 
-## 🔎 ¡En números!
+### ☕ Fun Facts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartincasas&layout=compact&theme=radical)
-
----
-
-## 💬 ¡Conéctate conmigo!
-
-- 👨‍💼 **LinkedIn**: [linkedin.com/in/miriammartinc]([https://linkedin.com/in/miriammartinc])
+Nature lover 🌿, bunny mom 🐰 (say hi to Luffy!), passionate about personal projects, and part-time gamer 🎮
 
 ---
 
-¡Gracias por visitar mi perfil! 🌟 Si tienes alguna idea o proyecto en el que pueda colaborar, no dudes en contactarme.
+## 🚀 Highlighted Projects
+
+### 🌐 InclusioMap – Hackató Barcelona Activa 2024
+
+An inclusive education platform analyzing socioeconomic data across Barcelona.
+
+- **Frontend:** Angular 18, Tailwind, HTML, CSS, Mapbox  
+- 🏆 **2nd Prize** among all participating teams
+
+---
+
+## 💼 Open to Work
+
+I’m currently open to **new job opportunities** where I can grow as a frontend developer/UX-UI Designer, collaborate with inspiring teams, and keep learning along the way.  
+📩 *If you think I’d be a great fit for your team, let’s talk!*
+
+---
+
+## 🔗 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miriammartinc)
+
+🌟 *Thanks for stopping by! If you have an idea or project in mind, I’d love to hear from you!*
+
